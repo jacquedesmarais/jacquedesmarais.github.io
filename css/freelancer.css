@@ -64,13 +64,13 @@ hr.star-primary:after {
   color: #2C3E50;
   background-color: white; }
 
-.img-centered {
-  margin: 0 auto; }
-
 .img-round {
   border-radius: 100%;
   height: 250px;
   width: 250px; }
+
+.img-centered {
+  margin: 0 auto; }
 
 section {
   padding: 100px 0; }
